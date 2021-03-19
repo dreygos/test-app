@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Looking for a React dev. Email as at <a href="mailto:admin@kontador.ro">admin@kontador.ro</a>
+          Looking for a React dev. Email us at <a href="mailto:admin@kontador.ro">admin@kontador.ro</a>
         </p>
       </header>
     </div>
